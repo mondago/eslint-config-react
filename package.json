@@ -2,6 +2,7 @@
   "name": "eslint-config-react",
   "version": "1.0.0",
   "description": "Mondago's ESLint ruleset for React projects",
+  "repository": "git+https://github.com/mondago/eslint-config-react.git",
   "main": "index.js",
   "keywords": [
     "eslint",
