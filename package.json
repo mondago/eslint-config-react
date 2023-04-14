@@ -1,8 +1,15 @@
 {
-  "name": "eslint-config-react",
+  "name": "@mondago/eslint-config-react",
   "version": "1.0.0",
   "description": "Mondago's ESLint ruleset for React projects",
-  "repository": "git+https://github.com/mondago/eslint-config-react.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondago/eslint-config-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mondago/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/mondago/eslint-config-react#readme",
   "main": "index.js",
   "keywords": [
     "eslint",
@@ -13,6 +20,7 @@
   "peerDependencies": {
     "eslint": ">= 8"
   },
+  "dependencies": {},
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.58.0",
     "eslint-config-prettier": "^8.8.0",
