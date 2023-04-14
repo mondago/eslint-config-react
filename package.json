@@ -1,6 +1,6 @@
 {
   "name": "@mondago/eslint-config-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mondago's ESLint ruleset for React projects",
   "repository": {
     "type": "git",
